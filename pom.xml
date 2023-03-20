@@ -60,7 +60,7 @@
 
         <!-- tools -->
         <lombok.version>1.18.24</lombok.version>
-        <hutool.version>5.8.5</hutool.version>
+        <hutool.version>5.8.12</hutool.version>
         <mapstruct.version>1.5.0.RC1</mapstruct.version>
         <weixin-java.version>4.1.5.B</weixin-java.version>
         <easyexcel.version>3.0.5</easyexcel.version>
