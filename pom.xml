@@ -62,7 +62,7 @@
         <lombok.version>1.18.24</lombok.version>
         <hutool.version>5.8.5</hutool.version>
         <mapstruct.version>1.5.0.RC1</mapstruct.version>
-        <weixin-java.version>4.1.5.B</weixin-java.version>
+        <weixin-java.version>4.5.1.B</weixin-java.version>
         <easyexcel.version>3.0.5</easyexcel.version>
         <easy-captcha.version>1.6.2</easy-captcha.version>
         <nimbus-jose-jwt.version>9.16.1</nimbus-jose-jwt.version>
