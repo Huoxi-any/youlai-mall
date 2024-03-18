@@ -51,7 +51,7 @@
 
         <!-- db && orm -->
         <mysql.version>8.0.19</mysql.version>
-        <druid.version>1.2.4</druid.version>
+        <druid.version>1.2.22</druid.version>
         <mybatis-plus.version>3.4.3</mybatis-plus.version>
 
         <!-- api doc -->
