@@ -81,7 +81,7 @@
         <aliyun.java.sdk.dysmsapi.version>2.1.0</aliyun.java.sdk.dysmsapi.version>
 
         <!-- minio -->
-        <minio.version>8.3.7</minio.version>
+        <minio.version>8.5.4</minio.version>
         <okhttp3.version>4.8.1</okhttp3.version>
     </properties>
 
